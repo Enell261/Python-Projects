@@ -1,1 +1,1 @@
-
+My 4th year research project was a classification problem, for practice I attempted the diabetes challenge from UCI repository. I used various classification models, namely; Logistic regression, Support Vector Machines, kNN and ANN
