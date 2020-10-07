@@ -1,1 +1,1 @@
-I wanted to play around with python's GUI package Tinkter to get user input and use it in the game. 
+I wanted to play around with python's GUI package Tinkter to get user input and use it in the game. This is an interactive, playable skeleton of what the game would look like. I just wanted the tinkter practice
