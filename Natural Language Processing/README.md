@@ -1,1 +1,1 @@
-
+I have an interest on NLP, (maybe a focus area for Masters) and I've been reading extensively about it. This is my first attempt at various introductory concepts like the bs4 package. The wordcloud was a result of a curiousity on the vocabulary used about Eswatini on wikipedia (the information most people see when they google our beautiful state)
